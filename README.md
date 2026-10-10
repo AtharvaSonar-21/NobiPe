@@ -1,4 +1,4 @@
-# NobiPe – Digital Banking & Fraud Detection Platform
+# NobiPe – Distributed Digital Banking & Fraud Detection Platform
 
 **NobiPe** is a microservices-based digital banking application designed for secure money transfers, account management, real-time fraud detection, and payment processing.
 
